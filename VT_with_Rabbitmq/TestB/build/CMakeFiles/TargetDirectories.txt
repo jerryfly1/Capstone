@@ -1,0 +1,5 @@
+/home/user/Capstone/VT_with_Rabbitmq/TestB/build/CMakeFiles/monitoring.dir
+/home/user/Capstone/VT_with_Rabbitmq/TestB/build/CMakeFiles/send.dir
+/home/user/Capstone/VT_with_Rabbitmq/TestB/build/CMakeFiles/receive.dir
+/home/user/Capstone/VT_with_Rabbitmq/TestB/build/CMakeFiles/edit_cache.dir
+/home/user/Capstone/VT_with_Rabbitmq/TestB/build/CMakeFiles/rebuild_cache.dir

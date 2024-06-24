@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/receive.dir/msqueue_receive.cpp.o -o receive  -lSimpleAmqpClient 

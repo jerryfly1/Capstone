@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/monitoring.dir/BoostAutoChecker.cpp.o CMakeFiles/monitoring.dir/MerkleTreeHash.cpp.o -o monitoring   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lSimpleAmqpClient -lssl -lcrypto -lboost_system -lboost_thread -lboost_chrono -lboost_filesystem 
